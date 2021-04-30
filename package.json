@@ -1,0 +1,13 @@
+{
+  "name": "express-home-work",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/aymanjebril2/express-home-work.git",
+  "author": "Ayman Omer <aymangebrilomer@gmail.com>",
+  "license": "MIT",
+  "scripts": {"start": "nodemon app.js"},
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7"
+  }
+}
